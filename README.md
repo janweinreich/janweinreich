@@ -3,6 +3,9 @@
 - 🌱 I’m currently improving my skills for transformer neural networks
 - 📫 janweinreich286@googlemail.com
 
+Scholar:
+[![Scholar]][https://scholar.google.com/citations?user=3fhtth0AAAAJ&hl=en]
+[![Twitter]][https://twitter.com/WeinreichJan]
 
 Homepage:
 https://janwein.com/
